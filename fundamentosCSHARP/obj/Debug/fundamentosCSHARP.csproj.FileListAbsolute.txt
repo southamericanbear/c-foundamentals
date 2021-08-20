@@ -1,0 +1,1 @@
+/Users/alan.miranda/Desktop/personal/c#/cursos/fundamentosCSHARP/fundamentosCSHARP/obj/Debug/fundamentosCSHARP.csproj.CoreCompileInputs.cache
